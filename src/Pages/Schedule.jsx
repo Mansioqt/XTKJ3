@@ -27,11 +27,11 @@ const Schedule = () => {
 
     // Menentukan kelompok piket berdasarkan hari
     piketGroup = [
-      ["Kayla", "Ruby", "Satrio", "Apip", "Bintang", "Roby"],
-      ["Izzan", "Naufal Z", "Aisy", "Reva", "Marvel", "Rendy"],
-      ["Lukman", "Yorgi", "Amanda", "Putra", "Vania", "Killua"],
-      ["Jeny", "Abi", "Cilla", "Fahri", "Nofal H", "Evelyn"],
-      ["Ayla", "Ilham", "Naura", "Pasya", "Raja", "Mirza"],
+      ["Jeny", "Zatu", "Satrio", "Manda", "Marvel", "Naufal H."],
+      ["Mirza", "Naufal Z", "Lukman", "Cilla", "Bintang", "Reva"],
+      ["Ais", "Fahri", "Naura", "Vania", "Ilham", "Raja"],
+      ["Yorgi", "Afif", "Kayla", "Killua", "Pasha", "Aila"],
+      ["Rendy", "Roby", "Putra", "Izzan", "Evelyn", "Ruby"],
     ]
 
         // Define the sequence of components for each week
